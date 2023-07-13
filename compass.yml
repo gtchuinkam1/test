@@ -1,0 +1,16 @@
+name: test
+id: ari:cloud:compass:7e5f31d1-8ee4-4398-90a6-096d909dc040:component/2a01446d-23f0-4af7-95c4-00fc26ca8a8e/db2b6316-9770-48dc-8c52-0e2f1babf71c
+description: sdasdasdasdadsad
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/gtchuinkam1/test
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
